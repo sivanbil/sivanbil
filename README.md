@@ -18,4 +18,4 @@ I'm a passionate software developer with expertise in PHP, Python, Rust, and Jav
 
 **Open Source Contributions:**
 
-* **Crystal Book:** Contributed to [specific sections or features, e.g., "updated the chapter on concurrency," "fixed typos and improved clarity in the installation guide"], [mention any significant contributions, e.g., "added a new section on macros"].
+* **Crystal Book:** .
