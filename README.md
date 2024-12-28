@@ -4,9 +4,9 @@ I'm a passionate software developer with expertise in PHP, Python, Rust, and Jav
 
 **Languages and Technologies:**
 
-* **Expert:** PHP, Python, Rust, Java
-* **Proficient:** HTML, CSS, JavaScript, SQL
-* **Familiar:** C++, Go
+* **Expert:** Rust, Java、PHP, Python
+* **Proficient:** Vue, HTML, CSS, JavaScript, SQL
+* **Familiar:** C++, C#
 
 **Areas of Interest:**
 
