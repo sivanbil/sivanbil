@@ -18,4 +18,4 @@ I'm a passionate software developer with expertise in PHP, Python, Rust, and Jav
 
 **Open Source Contributions:**
 
-* **Crystal Book:** .
+* [**Crystal Book:**](https://github.com/crystal-lang/crystal-book)
